@@ -5,5 +5,5 @@ Initial screen:
 [url=http://postimg.org/image/46qjepfq97/][img]https://s1.postimg.org/46qjepfq97/timeread1.png[/img][/url]
 On aligning the meeting point of the clock hands with the blue dot and keeping the vertical diagonal as the 12-6 line, press SPACE.
 Click either of the clock hands to give the right color (HSV value) of the clock hands.
-![Result window](/timeread2.png?raw=true)
+[url=http://postimg.org/image/6qwdrcg4az/][img]https://s1.postimg.org/6qwdrcg4az/timeread2.png[/img][/url]
 The above window with the result will appear on click, if the input is valid.
